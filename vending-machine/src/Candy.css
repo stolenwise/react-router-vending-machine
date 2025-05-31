@@ -2,3 +2,8 @@ img {
     width: 50%;
     height: 50%;
 }
+
+.Candy h1 {
+    color: #fff;                  /* pure white text              */
+    text-shadow: 0 0 6px #0008;   /* optional: glow for legibility */
+  }
